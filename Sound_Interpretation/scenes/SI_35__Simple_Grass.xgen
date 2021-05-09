@@ -2,7 +2,7 @@
 #
 # Version:  E:/Program Files/Maya2020/plug-ins/xgen/
 # Author:   yeung
-# Date:     Mon Mar 29 14:54:05 2021
+# Date:     Thu Apr  1 16:51:43 2021
 
 FileVersion 18
 
@@ -10,7 +10,7 @@ Palette
 	name			Simple_Grass
 	parent			
 	xgDataPath		${PROJECT}xgen/collections/Simple_Grass
-	xgProjectPath		D:/Maya3/Sound_Interpretation/
+	xgProjectPath		E:/Maya3/Sound_Interpretation/
 	xgDogTag		
 	endAttrs
 
@@ -29,7 +29,7 @@ Description
 	groom			
 	descriptionId		0
 	xgDataPath		${PROJECT}xgen/collections/Simple_Grass/
-	xgProjectPath		D:/Maya3/Sound_Interpretation/
+	xgProjectPath		E:/Maya3/Sound_Interpretation/
 	endAttrs
 
 RendermanRenderer
